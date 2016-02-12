@@ -1,0 +1,20 @@
+<resources>
+
+    <color name="custom_app_color"></color>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+       </style>
+
+    <!-- Customized style of my own -->
+    <style name="headerCustomText">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">48dp</item>
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:textColor">#4527A0</item>
+        <item name="android:textStyle">italic</item>
+        <item name="android:textAllCaps">true</item>
+    </style>
+
+</resources>
